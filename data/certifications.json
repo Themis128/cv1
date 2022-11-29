@@ -2,13 +2,13 @@
 	{
 		"name":"AWS Cloud Practitioner",
 		"description": "AWS Certified Cloud Practitioner",
-		"badge":"E:/cv1/static/img/1.webp",
+		"badge":"https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png",
 		"proof":"https://www.credly.com/badges/2176ba6a-16de-416b-93b2-8131900bc363/public_url"
 
 	},
 	{
-		"name":"ACP-JSD",
-		"description": "Jira Service Desk Administator",
+		"name":"Cisco CCCNA ",
+		"description": "Cisco Certified Network Assosiate ",
 		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/4/",
 		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-05-11&ci=AT00143196"
 
