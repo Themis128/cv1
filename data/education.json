@@ -8,8 +8,20 @@
     },
     {
         "school":"Cisco NetAcad",
-        "degree":"CCNA to be - NetDev to be",
+        "degree":"CCNA (to be) - NetDev (to be)",
         "major":"Network Engineering - Network Administrator",
         "range":"2021 - 2022"
+
+       
+    },
+    
+    {
+        "school":"AWS Training and Certification",
+        "degree":"Certified Cloud Practitioner",
+        "major":"Amazone Web Servises",
+        "range":"2022 - 2025"
+
+       
     }
+
 ]

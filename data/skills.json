@@ -1,32 +1,41 @@
 [
-  {
-      "grouping":"Architecture",
+ {
+      "grouping":"Cloud and Network Architecture",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Automation Tools",
+      "skills":[ "Java","Python","git","subversion","linux","bash","javascript"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":["Hugo","Joomla", "Jekyll", "Chef", "Vagrant", "Git", "Ansible"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Server Administration",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Microsoft Server 2016 - 2019","icon":"msql_server"},
+        {"name":"Microsoft","icon":"database"},
+        "Active Directory - Domain Controler",
+        {"name":"Microsoft Server"}
       ]
   },
   {
+    "grouping":"Virtulaization (Hyper-v - Vbox)",
+    "skills":[
+      {"name":"Hypervisors 1 - 2 -","icon":"msql_server"},
+      {"name":"Microsoft - Oracle -","icon":"database"},
+      "Deploy servers and applications",
+      {"name":"Microsoft and Oracle Virtulauzation"}
+    ]
+},
+  {
     "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
+      "skills":[       
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Jenkins", "link":""},
+          {"name":"Kubernetes","link":"https://openprofile.dev/"}
       ]
   }
 ]
