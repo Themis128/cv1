@@ -9,4 +9,13 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Customer service focused Technical Support Specialist with 14+ years
+of career
+experience in help desk environments. Highly adept in systems
+analysis, trained in
+developing, implementing, installing, configuring, customizing, the full
+designing
+process, troubleshooting, and overall management as related to
+network
+engineering. Exhibits excellent organizational and problem-solving
+skills.
