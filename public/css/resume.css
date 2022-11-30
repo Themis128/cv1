@@ -63,13 +63,13 @@ h2 {
   color: #BD5D38;
 }
 
-#sideNav .navbar-nav .nav-item .nav-link {
+.sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase;
 }
 
 @media (min-width: 992px) {
-  #sideNav {
+  .sideNav {
     text-align: center;
     position: fixed;
     top: 0;
@@ -79,7 +79,7 @@ h2 {
     width: 17rem;
     height: 100vh;
   }
-  #sideNav .navbar-brand {
+  .sideNav .navbar-brand {
     display: flex;
     margin: auto auto 0;
     padding: 0.5rem;
@@ -89,21 +89,21 @@ h2 {
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
-  #sideNav .navbar-collapse {
+  .sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
     flex-grow: 0;
     width: 100%;
     margin-bottom: auto;
   }
-  #sideNav .navbar-collapse .navbar-nav {
+  .sideNav .navbar-collapse .navbar-nav {
     flex-direction: column;
     width: 100%;
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
   }
-  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+  .sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
 }
