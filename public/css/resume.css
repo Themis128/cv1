@@ -84,7 +84,7 @@ h2 {
     margin: auto auto 0;
     padding: 0.5rem;
   }
-  #sideNav .navbar-brand .img-profile {
+  .sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
@@ -100,7 +100,7 @@ h2 {
     flex-direction: column;
     width: 100%;
   }
-  #sideNav .navbar-collapse .navbar-nav .nav-item {
+  .sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
   }
   .sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
